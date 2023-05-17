@@ -46,6 +46,9 @@ import com.hitanshudhawan.todo.utils.WidgetHelper;
 
 import java.util.Calendar;
 
+/**
+ * The main activity of the "Task Trek" app that helps users manage their tasks.
+ */
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor> {
 
