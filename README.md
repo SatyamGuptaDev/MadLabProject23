@@ -3,7 +3,7 @@ Task Trek
 
 Task Trek is a task manager Android app made with Java for maintaining your tasks. It is a simple and easy-to-use app that allows you to create, edit, and delete tasks, as well as set due dates and priorities. 
 
-This repository contains the code for Task Trek. It is maintained by Satyam Gupta and Shreeyansh Aditya Pandey.
+This repository contains the code for Task Trek. It is maintained by **Satyam Gupta** and **Shreeyansh Aditya Pandey**.
 Features
 
     Create, edit, and delete tasks
